@@ -37,9 +37,10 @@ a { color: inherit; text-decoration: none; }
 }
 
 .site-header .brand img {
-  width: 20px;
-  height: auto;
+  width: 20px !important;
+  height: 20px !important;
   display: block;
+  object-fit: contain;
 }
 
 footer .brand img {
