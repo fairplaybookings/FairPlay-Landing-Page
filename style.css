@@ -37,13 +37,13 @@ a { color: inherit; text-decoration: none; }
 }
 
 .site-header .brand img {
-  width: 110px;
+  width: 75px;
   height: auto;
   display: block;
 }
 
 footer .brand img {
-  width: 110px;
+  width: 75px;
   height: auto;
   display: block;
 }
